@@ -1,0 +1,7 @@
+[submodule "ScrapingKit"]
+	path = ScrapingKit
+	url = https://github.com/LaresLLC/ScrapingKit
+
+[submodule "SlinkyCat"]
+	path = SlinkyCat
+	url = https://github.com/LaresLLC/SlinkyCat
