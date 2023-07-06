@@ -1,5 +1,5 @@
 # Offensive Sysadmin aka Adversary Kit
-A collection of tools demonstrated at our recent talk, Adversaries Have It Easy, by Neil Lines and Andy Gill.
+A collection of tools demonstrated at our recent talk, Adversaries Have It Easy, brought to you by [Neil Lines](https://twitter.com/myexploit2600) & [Andy Gill](https://twitter.com/ZephrFish) at [Lares Labs](https://labs.lares.com).
 ![Offensive-Sysadmin-Suite](https://github.com/LaresLLC/OffensiveSysAdmin/assets/5783068/2fdf34db-1389-4384-91b1-24797583480b)
 
 The tooling is written in PS and C# using .net 6 for CS binaries. None are provided pre-compiled but instructions on how to do so can be found in the blog post:
