@@ -1,5 +1,7 @@
 # Offensive Sysadmin aka Adversary Kit
 A collection of tools demonstrated at our recent talk, Adversaries Have It Easy, by Neil Lines and Andy Gill.
+![Offensive-Sysadmin-Suite](https://github.com/LaresLLC/OffensiveSysAdmin/assets/5783068/2fdf34db-1389-4384-91b1-24797583480b)
+
 
 The table below details what each tool does, and the subsections detail how to use each.
 
