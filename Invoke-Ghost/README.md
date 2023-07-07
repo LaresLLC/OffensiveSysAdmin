@@ -1,4 +1,4 @@
-# Invoke-Ghost
+# Invoke-Ghost (Offensive SysAdmin Suite)
 Sneaky sneak way to scrape metadata from office docs using PowerShell from local and remote shares.
 
 ``` PS C:\Users\user1\Desktop\Scripts\Ghost> powershell.exe -nop -exec bypass ```

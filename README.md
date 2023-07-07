@@ -14,6 +14,7 @@ git clone --recurse-submodules -j8 git://github.com/LaresLLC/OffensiveSysAdmin.g
 
 Each module has its own readme and can run independently of the suite.
 
+## Tooling
 The table below details what each tool does, and the subsections detail how to use each.
 
 | **Name** | **Language** | **Description** |

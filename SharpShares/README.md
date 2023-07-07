@@ -1,4 +1,4 @@
-# SharpShares
+# SharpShares (Offensive SysAdmin Suite)
 Quick domain share enumeration tool
 
 

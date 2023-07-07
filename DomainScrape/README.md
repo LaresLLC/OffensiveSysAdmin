@@ -1,4 +1,4 @@
-# DomainScrape
+# DomainScrape (Offensive SysAdmin Suite)
 Domain Scrape is an extension of [ScrapingKit](https://github.com/LaresLLC/ScrapingKit) that will scrape shares for supplied keywords, think of it as SnafflerLite but more focused.
 
 ***Invoke-Scrape.ps1***
