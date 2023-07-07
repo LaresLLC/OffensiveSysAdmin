@@ -1,4 +1,4 @@
-# SharpCred (Offensive SysAdmin Suite)
+# SharpCred (Offensive SysAdmin Suite) 
 
 
 SharpCred allows users to authenticate with a domain, generate or load a list of usernames, and check if a provided password matches any of the usernames. It also retrieves the domain groups associated with valid credentials and identifies high privileged accounts based on predefined groups. The program can enumerate the domain password policy and provides an interactive menu for performing these operations.
