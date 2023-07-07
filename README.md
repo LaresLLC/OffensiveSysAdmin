@@ -4,7 +4,7 @@ A collection of tools demonstrated at our recent talk, Adversaries Have It Easy,
 
 The tooling is written in PS and C# using .net 6 for CS binaries. None are provided pre-compiled but instructions on how to do so can be found in the blog post:
 
-
+https://labs.lares.com/offensive-sysadmin/
 
 ## Setup
 To pull down all of the tools simply issue:
